@@ -10,6 +10,6 @@ import {
   AppRegistry
 } from 'react-native';
 
-var app = require('./app/index');
+import app from './app/demo.index';
 
 AppRegistry.registerComponent('FoowalaPos', () => app);

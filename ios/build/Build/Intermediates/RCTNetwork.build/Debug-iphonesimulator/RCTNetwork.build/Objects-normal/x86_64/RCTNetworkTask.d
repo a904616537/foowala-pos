@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/kainshi/Documents/foowala-job/FoowalaPos/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
-  /Users/kainshi/Documents/foowala-job/FoowalaPos/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
+  /Users/kainshi/Documents/foowala-job/foowala-pos/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
+  /Users/kainshi/Documents/foowala-job/foowala-pos/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
   ../../React/Base/RCTURLRequestDelegate.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
